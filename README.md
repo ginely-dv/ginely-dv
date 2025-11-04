@@ -48,7 +48,7 @@ A medida que avance en mi formación, adquiriré práctica con herramientas y en
 ## 🎓  Certificaciones (en curso)
 
 - **Google Cybersecurity Professional Certificate**  
-- **Data Science Certificate – Coursera**
+- **Certificado de Ciencia de Datos – Indotel/Coursera**
 
   *(Se añadirán los certificados una vez completados.)*
   
