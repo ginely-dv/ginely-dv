@@ -1,4 +1,4 @@
-# 💻 Hola, soy Ginely De Vita
+# Hola, soy Ginely De Vita
 
 Graduada en Administración de Negocios con experiencia en gestión y calidad de servicio. Actualmente estoy en proceso de transición profesional hacia el campo de la **Ciberseguridad**, aplicando mi pensamiento analítico, paciencia, responsabilidad y compromiso por ayudar a las personas y organizaciones a proteger su información.  
 
