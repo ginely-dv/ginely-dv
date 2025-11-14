@@ -12,7 +12,7 @@ Este repositorio está diseñado para mostrar mis habilidades de documentación,
 - [Metodología](#metodología)  
 - [Hallazgos y Observaciones](#hallazgos-y-observaciones)  
 - [Recomendaciones](#recomendaciones)  
-- [Estructura de_Repositorio](#estructura-de-repositorio)
+- [Estructura de Repositorio](#estructura-de-repositorio)
   
 ---
 
@@ -73,16 +73,21 @@ Estas se clasifican por prioridad e impacto, siguiendo estándares profesionales
 
 ---
 
-## Estructura de_Repositorio  
+## Estructura de Repositorio  
 
-audit-project/
+audit-project/ 
+
 ├── README.md
+
 ├── Reporte/
-│ └── Reporte_Auditoria_Botium_Toys.md
+└── Reporte_Auditoria_Botium_Toys.md
+
 ├── Datos/
 │ └── muestras_de_datos_falsos.md
+
 ├── Apéndices/
 │ └── apéndices_1.md
+
 └── PDF/
 └── Reporte_Auditoria_Botium_Toys.pdf (pendiente de generar)
 
