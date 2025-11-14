@@ -13,6 +13,7 @@ Este repositorio está diseñado para mostrar mis habilidades de documentación,
 - [Hallazgos y Observaciones](#hallazgos-y-observaciones)  
 - [Recomendaciones](#recomendaciones)  
 - [Estructura de Repositorio](#estructura-de-repositorio)
+- [Notas](#Notas)
   
 ---
 
@@ -93,5 +94,5 @@ audit-project/
 
 ---
 
-## Notes  
+## Notas  
 Este proyecto se creó con fines educativos y utiliza datos completamente ficticios.
