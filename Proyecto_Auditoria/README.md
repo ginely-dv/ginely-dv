@@ -45,7 +45,7 @@ estrategia para la continuidad del  negocio.
 
 ---
 
-## Methodology  
+## Metodología  
 El trabajo fue realizado siguiendo prácticas estándar de auditoría:  
 
 1. **Revisión documental:** datos provistos en el curso.  
@@ -55,7 +55,7 @@ El trabajo fue realizado siguiendo prácticas estándar de auditoría:
 
 ---
 
-## Findings & Observations  
+## Hallazgos y Observaciones
 Los hallazgos detallados se encuentran en:  
 📁  
 📁
@@ -67,13 +67,13 @@ Incluyen:
 
 ---
 
-## Recommendations  
+## Recomendaciones  
 Las recomendaciones consolidadas están incluidas en el reporte final.  
 Estas se clasifican por prioridad e impacto, siguiendo estándares profesionales.
 
 ---
 
-## Estructura del Repositorio  
+## Estructura de_Repositorio  
 
 audit-project/
 ├── README.md
