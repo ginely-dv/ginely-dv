@@ -1,4 +1,4 @@
-# Informe de Auditoría Interna de Seguridad del Departamento de Tecnologías de la Informática — Botium Toys
+# Informe de Auditoría Interna de Seguridad del Departamento de Tecnologías de la Informática 
 
 
 Fecha: Noviembre, 2025  
