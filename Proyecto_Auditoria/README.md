@@ -17,7 +17,7 @@ Este repositorio está diseñado para mostrar mis habilidades de documentación,
   
 ---
 
-## Resumen Ejecutivo  
+## Resumen   
 Este proyecto replica el proceso estándar de una auditoría interna de ciberseguridad.  
 Se revisaron controles clave, configuraciones y datos provistos en el curso para evaluar el nivel de cumplimiento, identificar riesgos potenciales y documentar recomendaciones de mejora.
 
