@@ -271,8 +271,8 @@ Apéndices incluidos en el repositorio:
 
 - [1.1 Instrucciones_Actividad de Auditoria.pdf](../Apéndices/1.1%20Instrucciones_Actividad%20de%20Auditoria.pdf)
 - [1.2 Alcance y objetivos.pdf](../Apéndices/1.2%20Alcance%20y%20objetivos.pdf)
-- [1.3 Evaluación de riesgos.pdf](../Apendices/1.3%20Evaluacion%20de%20riesgos.pdf)
-- [1.4 Categorías de control.pdf](../Apendices/1.4%20Categorias%20de%20control.pdf)
-- [1.5 Lista de verificación de cumplimiento.pdf](../Apendices/1.5%20Lista%20de%20verificacion%20de%20cumplimiento.pdf)
-- [1.6 Memorándum para las partes interesadas.pdf](../Apendices/1.6%20Memorandum%20para%20las%20partes%20interesadas.pdf)
+- [1.3 Evaluación de riesgos.pdf](../Apéndices/1.3%20Evaluacion%20de%20riesgos.pdf)
+- [1.4 Categorías de control.pdf](../Apéndices/1.4%20Categorias%20de%20control.pdf)
+- [1.5 Lista de verificación de cumplimiento.pdf](../Apéndices/1.5%20Lista%20de%20verificacion%20de%20cumplimiento.pdf)
+- [1.6 Memorándum para las partes interesadas.pdf](../Apéndices/1.6%20Memorandum%20para%20las%20partes%20interesadas.pdf)
   
