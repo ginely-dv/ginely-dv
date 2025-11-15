@@ -18,7 +18,7 @@ Organización: Botium Toys (Ejercicio ficticio)
 * [7. Evaluación de los controles](evaluacion-de-los-controles)    
 * [8. Recomendaciones](recomendaciones)    
 * [9. Conclusión](conclusion)    
-* [Anexo Referencias](anexo-referencias)
+* [Apéndices](apendices)
 
 ## Resumen Ejecutivo
 
@@ -203,8 +203,71 @@ El gerente espera una alineación completa con:
 
 El nivel de madurez actual es bajo.  
 
+## 7. Evaluación de controles
 
-  
+Según la lista de verificación de aplicabilidad de controles:
+
+### Controles faltantes (Alta prioridad)
+* Políticas de control de acceso
+* Mecanismos de aplicación del principio de mínimo privilegio
+* Configuración base del firewall y del IDS
+* Reglas de monitoreo del SIEM
+* Estándares de registro y alertas
+
+### Controles para implementar posteriormente
+* Ampliación de la autenticación multifactor
+* Flujos de trabajo de gestión de cambios
+* Documentación del ciclo de vida de los activos
+* Programa de gestión de riesgos de proveedores
+
+## 8. Recomendaciones
+
+### 8.1 Recomendaciones inmediatas
+1. **Crear un inventario completo de activos** (software, hardware, accesos).
+2. **Implementar el principio de mínimo privilegio** mediante:
+    * Revisión de roles
+    * Eliminación de accesos innecesarios  
+3. **Reforzar los controles técnicos:**
+    * Firewalls
+    * IDS
+    * Protección de endpoints
+    * Correlación SIEM
+4. **Implementar controles de cumplimiento fundamentales:**
+    * Mapeo de requisitos PCI DSS
+    * Avisos y documentación de privacidad del RGPD
+5. **Desarrollar políticas obligatorias:**
+    * Política de control de acceso
+    * Política de retención de datos
+    * Plan de respuesta ante incidentes
+
+### 8.2 Recomendaciones futuras
+
+1. Ampliar la autenticación multifactor (MFA) a todos los sistemas.  
+2. Desarrollar un proceso de gestión de riesgos de proveedores.  
+3. Crear manuales de procedimientos para:
+* Respuesta ante incidentes
+* Gestión de cambios
+4. Capacitar al personal en concientización sobre ciberseguridad.
+5. Planificar actualizaciones graduales de los sistemas heredados.
+
+## 9.Conclusión
+
+Botium Toys enfrenta importantes riesgos de seguridad y cumplimiento normativo debido al rápido crecimiento de sus operaciones en línea y la ausencia de controles fundamentales. El nivel de riesgo actual de 8/10 pone de manifiesto la necesidad urgente de mejorar la gestión de activos, el control de acceso, la preparación para el cumplimiento normativo y el fortalecimiento de los sistemas.
+
+Los resultados de la auditoría respaldan la solicitud del gerente de TI de ampliar el equipo de seguridad para mantener el control, reducir la exposición al riesgo y cumplir con las crecientes exigencias regulatorias.
+
+La implementación de las recomendaciones descritas en este informe ayudará a la empresa a avanzar hacia la alineación con el Marco de Ciberseguridad del NIST, respaldar operaciones comerciales internacionales seguras y fortalecer su postura general de ciberseguridad.
+
+## Apéndices
+
+Apéndices incluidos en el repositorio:  
+* scenario_instructions.pdf
+* scope_and_objectives.pdf
+* risk_assessment.pdf
+* control_applicability.pdf
+* compliance_checklist.pdf
+* stakeholder_memo.pdf
+* control_categories.pdf
 
 
   
