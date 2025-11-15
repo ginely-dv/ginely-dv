@@ -9,7 +9,7 @@ Organización: Botium Toys (Ejercicio ficticio)
 ## Índice  
 
 * [Resumen ejecutivo](Resumen-ejecutivo)  
-* [1. Introducción](introduccion)  
+* [1. Introducción](1-introduccion)  
 * [2. Alcance y objetivos](alcance-y-objetivos)  
 * [3. Metodología](metodologia)
 * [4. Resultados y observaciones](resultados-y-observaciones)   
