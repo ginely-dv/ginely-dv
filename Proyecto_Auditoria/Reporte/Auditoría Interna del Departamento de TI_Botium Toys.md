@@ -265,15 +265,15 @@ Todos los documentos de apoyo utilizados en esta auditoría interna se encuentra
 
 📄 [Apéndice A — Escenario de Auditoría e Instrucciones](../Apéndices/Apendice-A_Auditoria-Escenario-e-Instrucciones.pdf)
 
-📄 [Apéndice B — Alcance y Objetivos de la Gerencia](Apendices/Apendice-B_Gerencia-Alcance-y-Objetivos.pdf)
+📄 [Apéndice B — Alcance y Objetivos de la Gerencia](../Apéndices/Apendice-B_Gerencia-Alcance-y-Objetivos.pdf)
  
-📄 [Apéndice C — Evaluación de Riesgos](Apendices/Apendice-C_Evaluacion-de-Riesgos.pdf)
+📄 [Apéndice C — Evaluación de Riesgos](../Apéndices/Apendice-C_Evaluacion-de-Riesgos.pdf)
 
-📄 [Apéndice D — Categorías de Control](Apendices/Apendice-D_Categorias-de-Control.pdf)
+📄 [Apéndice D — Categorías de Control](../Apéndices/Apendice-D_Categorias-de-Control.pdf)
 
-📄 [Apéndice E — Matriz de Evaluación de Controles](Apendices/Apendice-E_Matrix-Evaluacion-de-Controles.pdf)
+📄 [Apéndice E — Matriz de Evaluación de Controles](../Apéndices/Apendice-E_Matrix-Evaluacion-de-Controles.pdf)
 
-📄 [Apéndice F — Lista de Verificación de Cumplimiento](Apendices/Apendice-F_Lista-Verificacion-de-Cumplimiento.pdf)
+📄 [Apéndice F — Lista de Verificación de Cumplimiento](../Apéndices/Apendice-F_Lista-Verificacion-de-Cumplimiento.pdf)
 
-📄 [Apéndice G — Memorándum para Partes Interesadas](Apendices/Apendice-G_Memorandum-partes-interesadas.pdf)
+📄 [Apéndice G — Memorándum para Partes Interesadas](../Apéndices/Apendice-G_Memorandum-partes-interesadas.pdf)
 
