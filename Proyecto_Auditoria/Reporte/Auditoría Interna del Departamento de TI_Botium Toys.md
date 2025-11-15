@@ -9,16 +9,16 @@ Organización: Botium Toys (Ejercicio ficticio)
 ## Índice  
 
 - [Resumen ejecutivo](#resumen-ejecutivo)
-- [1. Introducción](#1-introduccion)
+- [1. Introduccion](#1-introduccion)
 - [2. Alcance y objetivos](#2-alcance-y-objetivos)
-- [3. Metodología](#3-metodologia)
+- [3. Metodologia](#3-metodologia)
 - [4. Resultados y observaciones](#4-resultados-y-observaciones)
-- [5. Análisis de riesgos](#5-analisis-de-riesgos)
-- [6. Evaluación del cumplimiento](#6-evaluacion-del-cumplimiento)
-- [7. Evaluación de los controles](#7-evaluacion-de-los-controles)
+- [5. Analisis de riesgos](#5-analisis-de-riesgos)
+- [6. Evaluacion del cumplimiento](#6-evaluacion-del-cumplimiento)
+- [7. Evaluacion de los controles](#7-evaluacion-de-los-controles)
 - [8. Recomendaciones](#8-recomendaciones)
-- [9. Conclusión](#9-conclusion)
-- [Apéndices](#apendices)
+- [9. Conclusion](#9-conclusion)
+- [Apendices](#apendices)
   
 ## Resumen ejecutivo  
 
@@ -28,7 +28,7 @@ La evaluación reveló varias deficiencias de alto riesgo: gestión incompleta d
 
 Es necesario tomar medidas correctivas inmediatas para fortalecer las defensas del sistema, cumplir con las obligaciones de cumplimiento relacionadas con los pagos en línea y los clientes de la UE, y respaldar el crecimiento de la empresa. Los hallazgos justifican la solicitud del gerente de TI de ampliar el equipo de ciberseguridad para satisfacer las necesidades operativas y de cumplimiento.
 
-## 1. Introducción  
+## 1. Introduccion  
 
 Este informe documenta los resultados de una auditoría interna simulada de seguridad informática realizada a Botium Toys como parte de un programa de capacitación en ciberseguridad. El ejercicio se basa íntegramente en documentación de auditoría ficticia, pero realista, que incluye:
 
@@ -68,7 +68,7 @@ El gerente de TI estableció los siguientes objetivos:
 * Desarrollar políticas, procedimientos y manuales de procedimientos fundamentales
 * Proporcionar evidencia que justifique la ampliación del equipo de seguridad informática
 
-## 3. Metodología  
+## 3. Metodologia  
 
 Esta auditoría empleó el siguiente enfoque:  
 
@@ -149,7 +149,7 @@ Se analizaron los documentos proporcionados por el escenario:
 * No se supervisa el acceso de terceros
 * No se revisan los requisitos de cumplimiento de los proveedores
 
-## 5. Análisis de riesgos
+## 5. Analisis de riesgos
 
 Basado en la evaluación de riesgos proporcionada en el curso:
 
@@ -166,7 +166,7 @@ El mayor riesgo se debe a:
 * Alta probabilidad de exposición de datos
 * Alta probabilidad de sanciones regulatorias
 
-## 6. Evaluación del cumplimiento
+## 6. Evaluacion del cumplimiento
 
 Botium Toys debe cumplir con:  
 
@@ -204,7 +204,7 @@ El gerente espera una alineación completa con:
 
 El nivel de madurez actual es bajo.  
 
-## 7. Evaluación de los controles
+## 7. Evaluacion de los controles
 
 Según la lista de verificación de aplicabilidad de controles:
 
@@ -251,7 +251,7 @@ Según la lista de verificación de aplicabilidad de controles:
 4. Capacitar al personal en concientización sobre ciberseguridad.
 5. Planificar actualizaciones graduales de los sistemas heredados.
 
-## 9. Conclusión
+## 9. Conclusion
 
 Botium Toys enfrenta importantes riesgos de seguridad y cumplimiento normativo debido al rápido crecimiento de sus operaciones en línea y la ausencia de controles fundamentales. El nivel de riesgo actual de 8/10 pone de manifiesto la necesidad urgente de mejorar la gestión de activos, el control de acceso, la preparación para el cumplimiento normativo y el fortalecimiento de los sistemas.
 
@@ -259,7 +259,7 @@ Los resultados de la auditoría respaldan la solicitud del gerente de TI de ampl
 
 La implementación de las recomendaciones descritas en este informe ayudará a la empresa a avanzar hacia la alineación con el Marco de Ciberseguridad del NIST, respaldar operaciones comerciales internacionales seguras y fortalecer su postura general de ciberseguridad.
 
-## Apéndices
+## Apendices
 
 Apéndices incluidos en el repositorio:  
 * scenario_instructions.pdf
