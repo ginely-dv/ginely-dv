@@ -259,20 +259,28 @@ Los resultados de la auditoría respaldan la solicitud del gerente de TI de ampl
 
 La implementación de las recomendaciones descritas en este informe ayudará a la empresa a avanzar hacia la alineación con el Marco de Ciberseguridad del NIST, respaldar operaciones comerciales internacionales seguras y fortalecer su postura general de ciberseguridad.
 
-## Apendices
+## Apendices  
+  
+Todos los documentos de apoyo utilizados en esta auditoría interna se encuentran en la carpeta `/Apéndices/`.
 
-Apéndices incluidos en el repositorio:  
-* 1.1 Instrucciones_Actividad de Auditoria.pdf
-* 1.2 Alcance y objetivos.pdf
-* 1.3 Evaluación de riesgos.pdf
-* 1.4 Categorías de control.pdf
-* 1.5 Lista de verificación de cumplimiento.pdf
-* 1.6 Memorándum para las partes interesadas.pdf
+### **Apéndice A — Escenario de Auditoría e Instrucciones**  
+📄 [Escenario de Auditoría e Instrucciones](Apendices/Apendice-A_Auditoria-Escenario-e-Instrucciones.pdf)
 
-- [1.1 Instrucciones_Actividad de Auditoria.pdf](../Apéndices/1.1%20Instrucciones_Actividad%20de%20Auditoria.pdf)
-- [1.2 Alcance y objetivos.pdf](../Apéndices/1.2%20Alcance%20y%20objetivos.pdf)
-- [1.3 Evaluación de riesgos.pdf](../Apéndices/1.3%20Evaluacion%20de%20riesgos.pdf)
-- [1.4 Categorías de control.pdf](../Apéndices/1.4%20Categorias%20de%20control.pdf)
-- [1.5 Lista de verificación de cumplimiento.pdf](../Apéndices/1.5%20Lista%20de%20verificacion%20de%20cumplimiento.pdf)
-- [1.6 Memorándum para las partes interesadas.pdf](../Apéndices/1.6%20Memorandum%20para%20las%20partes%20interesadas.pdf)
+### **Apéndice B — Alcance y Objetivos de la Gerencia**  
+📄 [Alcance y Objetivos de la Gerencia](Apendices/Apendice-B_Gerencia-Alcance-y-Objetivos.pdf)
+
+### **Apéndice C — Evaluación de Riesgos**  
+📄 [Evaluación de Riesgos](Apendices/Apendice-C_Evaluacion-de-Riesgos.pdf)
+
+### **Apéndice D — Categorías de Control**  
+📄 [Categorías de Control](Apendices/Apendice-D_Categorias-de-Control.pdf)
+
+### **Apéndice E — Matriz de Evaluación de Controles**  
+📄 [Matriz de Evaluación de Controles](Apendices/Apendice-E_Matrix-Evaluacion-de-Controles.pdf)
+
+### **Apéndice F — Lista de Verificación de Cumplimiento**  
+📄 [Lista de Verificación de Cumplimiento](Apendices/Apendice-F_Lista-Verificacion-de-Cumplimiento.pdf)
+
+### **Apéndice G — Memorándum para Partes Interesadas**  
+📄 [Memorándum para Partes Interesadas](Apendices/Apendice-G_Memorandum-partes-interesadas.pdf)
   
