@@ -1,7 +1,7 @@
 # **Actividad: Realiza una auditoría de seguridad**
 
-**Escenario** ![][image1] 
-
+## **Escenario** 
+---
 Revisa el siguiente escenario. Luego, completa las instrucciones paso a paso. 
 
 *Este escenario se basa en una empresa ficticia:* 
@@ -14,10 +14,11 @@ La gerente de TI comienza aplicando el Marco de Ciberseguridad (CSF) del Institu
 
 Tu tarea consiste en revisar el alcance, los objetivos y la evaluación de riesgos de la gerente de TI. Luego, realiza una auditoría interna para completar una evaluación de los controles y una lista de verificación de cumplimiento. 
 
-1. **Analiza el alcance, los objetivos y la evaluación de riesgos de la auditoría**.
+---
+
+## 1. **Analiza el alcance, los objetivos y la evaluación de riesgos de la auditoría**.
 
 ![][image1]
-
  Recibes el siguiente correo electrónico de tu gerente de TI: 
 
 ¡Hola\! 
@@ -44,9 +45,11 @@ Tras revisar el alcance, los objetivos y la evaluación de riesgos de la auditor
 
 * ¿Cuáles son los mayores riesgos para la organización?   
 * ¿Qué controles son más esenciales implementar de inmediato que en el futuro?   
-* ¿Qué normativas de cumplimiento debe cumplir Botium Toys para garantizar la seguridad de los datos de clientes y proveedores, evitar multas, etc.? 
+* ¿Qué normativas de cumplimiento debe cumplir Botium Toys para garantizar la seguridad de los datos de clientes y proveedores, evitar multas, etc.?
 
-2. **Evaluación de los controles** 
+---
+
+## 2. **Evaluación de los controles** 
 
 ![][image1]
 
@@ -58,9 +61,11 @@ Para completar la evaluación de los controles, abre los materiales de apoyo. A 
 2. **Revisa** el nombre de cada control.   
 3. **Revisa** los tipos de controles y su explicación.    
 4. **Marca con una X** cada control que deba aplicarse.   
-5. **Anota los niveles de prioridad** (alta, media y/o baja; NA si no corresponde). 
+5. **Anota los niveles de prioridad** (alta, media y/o baja; NA si no corresponde).
 
-3. **Lista de verificación de cumplimiento normativo**
+---
+
+## 3. **Lista de verificación de cumplimiento normativo**
 
 ![][image1]
 
@@ -72,8 +77,9 @@ Para completar la lista de verificación de cumplimiento normativo, abre los mat
 4.  **¿Qué debes incluir en tu respuesta?**
 
 ![][image1]
+---
 
-Asegúrate de incluir los siguientes elementos en la actividad terminada: 
+## 4. Asegúrate de incluir los siguientes elementos en la actividad terminada:
 
 1) Evaluación de los controles   
 * Todos los **activos** enumerados se tienen en cuenta en los controles seleccionados.   
