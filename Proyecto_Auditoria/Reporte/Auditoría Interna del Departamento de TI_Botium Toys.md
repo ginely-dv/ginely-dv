@@ -283,4 +283,14 @@ Todos los documentos de apoyo utilizados en esta auditoría interna se encuentra
 
 ### **Apéndice G — Memorándum para Partes Interesadas**  
 📄 [Memorándum para Partes Interesadas](Apendices/Apendice-G_Memorandum-partes-interesadas.pdf)
+
+Apéndices incluidos en el repositorio:  
+
+- [Apendice-A_Auditoria-Escenario-e-Instrucciones.pdf](../Apendices/Apendice-A_Auditoria-Escenario-e-Instrucciones.pdf)
+- [Apendice-B_Gerencia-Alcance-y-Objetivos.pdf](../Apendices/Apendice-B_Gerencia-Alcance-y-Objetivos.pdf)
+- [Apendice-C_Evaluacion-de-Riesgos.pdf](../Apendices/Apendice-C_Evaluacion-de-Riesgos.pdf)
+- [Apendice-D_Categorias-de-Control.pdf](../Apendices/Apendice-D_Categorias-de-Control.pdf)
+- [Apendice-E_Matrix-Evaluacion-de-Controles.pdf](../Apendices/Apendice-E_Matrix-Evaluacion-de-Controles.pdf)
+- [Apendice-F_Lista-Verificacion-de-Cumplimiento.pdf](../Apendices/Apendice-F_Lista-Verificacion-de-Cumplimiento.pdf)
+- [Apendice-G_Memorandum-partes-interesada.pdf](../Apendices/Apendice-G_Memorandum-partes-interesada.pdf)
   
