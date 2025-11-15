@@ -263,7 +263,7 @@ La implementación de las recomendaciones descritas en este informe ayudará a l
   
 Todos los documentos de apoyo utilizados en esta auditoría interna se encuentran en la carpeta `/Apéndices/`.
 
-📄 [Apéndice A — Escenario de Auditoría e Instrucciones](../Apendices/Apendice-A_Auditoria-Escenario-e-Instrucciones.pdf)
+📄 [Apéndice A — Escenario de Auditoría e Instrucciones](../Apéndices/Apendice-A_Auditoria-Escenario-e-Instrucciones.pdf)
 
 📄 [Apéndice B — Alcance y Objetivos de la Gerencia](Apendices/Apendice-B_Gerencia-Alcance-y-Objetivos.pdf)
  
