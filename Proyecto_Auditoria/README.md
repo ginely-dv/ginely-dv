@@ -7,7 +7,7 @@ Este repositorio está diseñado para mostrar mis habilidades de documentación,
 ---
 
 ## Tabla de Contenido  
-- [Resumen Ejecutivo](#resumen-ejecutivo)
+- [Resumen](#resumen)
 - [Alcance y Objetivos](#alcance-y-objetivos)  
 - [Metodología](#metodología)  
 - [Hallazgos y Observaciones](#hallazgos-y-observaciones)  
