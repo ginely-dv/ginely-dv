@@ -8,19 +8,19 @@ Organización: Botium Toys (Ejercicio ficticio)
 
 ## Índice  
 
-* [Resumen ejecutivo](#resumen-ejecutivo)  
-* [1. Introduccion](#1-introduccion)  
-* [2. Alcance y objetivos](#2-alcance-y-objetivos)  
-* [3. Metodologia](#3-metodologia)
-* [4. Resultados y observaciones](#4-resultados-y-observaciones)   
-* [5. Analisis de riesgos](#5-analisis-de-riesgos)    
-* [6. Evaluacion del cumplimiento](#6-evaluacion-del-cumplimiento)   
-* [7. Evaluacion de los controles](#7-evaluacion-de-los-controles)    
-* [8. Recomendaciones](#8-recomendaciones)    
-* [9. Conclusion](#9-conclusion)    
-* [Apendices](#apendices)
-
-## Resumen Ejecutivo
+- [Resumen ejecutivo](#resumen-ejecutivo)
+- [1. Introducción](#1-introduccion)
+- [2. Alcance y objetivos](#2-alcance-y-objetivos)
+- [3. Metodología](#3-metodologia)
+- [4. Resultados y observaciones](#4-resultados-y-observaciones)
+- [5. Análisis de riesgos](#5-analisis-de-riesgos)
+- [6. Evaluación del cumplimiento](#6-evaluacion-del-cumplimiento)
+- [7. Evaluación de los controles](#7-evaluacion-de-los-controles)
+- [8. Recomendaciones](#8-recomendaciones)
+- [9. Conclusión](#9-conclusion)
+- [Apéndices](#apendices)
+  
+## Resumen ejecutivo  
 
 Esta auditoría interna de TI evalúa la postura de ciberseguridad de Botium Toys, una pequeña empresa de juguetes con sede en EE. UU., una única oficina física y una presencia global en el comercio electrónico en rápida expansión. La auditoría se inició debido al aumento de las exigencias operativas del departamento de TI y a la creciente exposición a clientes internacionales y requisitos normativos.
 
@@ -42,7 +42,7 @@ Este informe documenta los resultados de una auditoría interna simulada de segu
 
 Botium Toys mantiene infraestructura local para sus operaciones comerciales y, al mismo tiempo, gestiona un mercado global en línea. Estas condiciones aumentan la exposición de la organización a amenazas de seguridad y obligaciones regulatorias, lo que exige una revisión integral de su postura de seguridad.
 
-## 2. Alcance y Objetivos
+## 2. Alcance y objetivos  
 
 ### 2.1 Alcance  
 El alcance, definido por el responsable de TI, abarca todo el programa de seguridad informática, incluyendo:
@@ -68,7 +68,7 @@ El gerente de TI estableció los siguientes objetivos:
 * Desarrollar políticas, procedimientos y manuales de procedimientos fundamentales
 * Proporcionar evidencia que justifique la ampliación del equipo de seguridad informática
 
- ## 3. Metodología
+## 3. Metodología  
 
 Esta auditoría empleó el siguiente enfoque:  
 
@@ -103,7 +103,7 @@ Se analizaron los documentos proporcionados por el escenario:
 * Los hallazgos se clasificaron como Inmediatos (alto riesgo) o Futuros (riesgo medio/bajo).
 * Las recomendaciones se alinearon con los estándares de la industria y las limitaciones organizacionales.
 
-## 4. Hallazgos y Observaciones
+## 4. Resultados y observaciones  
 
 ### 4.1 Hallazgos Inmediatos (de Alto Riesgo)
 
@@ -149,7 +149,7 @@ Se analizaron los documentos proporcionados por el escenario:
 * No se supervisa el acceso de terceros
 * No se revisan los requisitos de cumplimiento de los proveedores
 
-## 5. Análisis de Riesgos
+## 5. Análisis de riesgos
 
 Basado en la evaluación de riesgos proporcionada en el curso:
 
@@ -166,7 +166,8 @@ El mayor riesgo se debe a:
 * Alta probabilidad de exposición de datos
 * Alta probabilidad de sanciones regulatorias
 
-## 6. Evaluación de Cumplimiento
+## 6. Evaluación del cumplimiento
+
 Botium Toys debe cumplir con:  
 
 ### 1. PCI DSS
@@ -203,7 +204,7 @@ El gerente espera una alineación completa con:
 
 El nivel de madurez actual es bajo.  
 
-## 7. Evaluación de controles
+## 7. Evaluación de los controles
 
 Según la lista de verificación de aplicabilidad de controles:
 
@@ -250,7 +251,7 @@ Según la lista de verificación de aplicabilidad de controles:
 4. Capacitar al personal en concientización sobre ciberseguridad.
 5. Planificar actualizaciones graduales de los sistemas heredados.
 
-## 9.Conclusión
+## 9. Conclusión
 
 Botium Toys enfrenta importantes riesgos de seguridad y cumplimiento normativo debido al rápido crecimiento de sus operaciones en línea y la ausencia de controles fundamentales. El nivel de riesgo actual de 8/10 pone de manifiesto la necesidad urgente de mejorar la gestión de activos, el control de acceso, la preparación para el cumplimiento normativo y el fortalecimiento de los sistemas.
 
