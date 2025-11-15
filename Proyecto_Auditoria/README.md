@@ -57,14 +57,18 @@ El trabajo fue realizado siguiendo prácticas estándar de auditoría:
 ---
 
 ## Hallazgos y Observaciones
-Los hallazgos detallados se encuentran en:  
-📁  
-📁
 
-Incluyen:  
-- Observaciones clave  
-- Nivel de impacto  
-- Evidencias   
+Los hallazgos detallados del proyecto se encuentran en:
+
+📁 Reporte Completo de Auditoría  
+📁 **[Apendices - Evidencias y Documentación Soporte](..Apéndices)
+
+Incluyen:
+- Observaciones clave identificadas durante la auditoría  
+- Clasificación del nivel de impacto  
+- Evidencias documentales  
+- Riesgos asociados y controles afectados  
+- Recomendaciones preliminares
 
 ---
 
