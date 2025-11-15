@@ -9,16 +9,16 @@ Organización: Botium Toys (Ejercicio ficticio)
 ## Índice  
 
 * [Resumen ejecutivo](#resumen-ejecutivo)  
-* [1. Introducción](#1-introduccion)  
+* [1. Introduccion](#1-introduccion)  
 * [2. Alcance y objetivos](#2-alcance-y-objetivos)  
-* [3. Metodología](#3-metodologia)
+* [3. Metodologia](#3-metodologia)
 * [4. Resultados y observaciones](#4-resultados-y-observaciones)   
-* [5. Análisis de riesgos](#5-analisis-de-riesgos)    
-* [6. Evaluación del cumplimiento](#6-evaluacion-del-cumplimiento)   
-* [7. Evaluación de los controles](#7-evaluacion-de-los-controles)    
+* [5. Analisis de riesgos](#5-analisis-de-riesgos)    
+* [6. Evaluacion del cumplimiento](#6-evaluacion-del-cumplimiento)   
+* [7. Evaluacion de los controles](#7-evaluacion-de-los-controles)    
 * [8. Recomendaciones](#8-recomendaciones)    
-* [9. Conclusión](#9-conclusion)    
-* [Apéndices](#apendices)
+* [9. Conclusion](#9-conclusion)    
+* [Apendices](#apendices)
 
 ## Resumen Ejecutivo
 
