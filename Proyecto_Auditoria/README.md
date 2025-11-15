@@ -61,7 +61,7 @@ El trabajo fue realizado siguiendo prácticas estándar de auditoría:
 Los hallazgos detallados del proyecto se encuentran en:
 
 📁 Reporte Completo de Auditoría  
-📁 **[Apendices - Evidencias y Documentación Soporte](..Apéndices)
+📁 **[Apéndices - Evidencias y Documentación Soporte](Apéndices/)**
 
 Incluyen:
 - Observaciones clave identificadas durante la auditoría  
