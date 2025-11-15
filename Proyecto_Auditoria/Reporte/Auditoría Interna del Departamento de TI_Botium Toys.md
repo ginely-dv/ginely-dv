@@ -263,34 +263,17 @@ La implementación de las recomendaciones descritas en este informe ayudará a l
   
 Todos los documentos de apoyo utilizados en esta auditoría interna se encuentran en la carpeta `/Apéndices/`.
 
-### **Apéndice A — Escenario de Auditoría e Instrucciones**  
-📄 [Escenario de Auditoría e Instrucciones](Apendices/Apendice-A_Auditoria-Escenario-e-Instrucciones.pdf)
+📄 [Apéndice A — Escenario de Auditoría e Instrucciones](../Apendices/Apendice-A_Auditoria-Escenario-e-Instrucciones.pdf)
 
-### **Apéndice B — Alcance y Objetivos de la Gerencia**  
-📄 [Alcance y Objetivos de la Gerencia](Apendices/Apendice-B_Gerencia-Alcance-y-Objetivos.pdf)
+📄 [Apéndice B — Alcance y Objetivos de la Gerencia](Apendices/Apendice-B_Gerencia-Alcance-y-Objetivos.pdf)
+ 
+📄 [Apéndice C — Evaluación de Riesgos](Apendices/Apendice-C_Evaluacion-de-Riesgos.pdf)
 
-### **Apéndice C — Evaluación de Riesgos**  
-📄 [Evaluación de Riesgos](Apendices/Apendice-C_Evaluacion-de-Riesgos.pdf)
+📄 [Apéndice D — Categorías de Control](Apendices/Apendice-D_Categorias-de-Control.pdf)
 
-### **Apéndice D — Categorías de Control**  
-📄 [Categorías de Control](Apendices/Apendice-D_Categorias-de-Control.pdf)
+📄 [Apéndice E — Matriz de Evaluación de Controles](Apendices/Apendice-E_Matrix-Evaluacion-de-Controles.pdf)
 
-### **Apéndice E — Matriz de Evaluación de Controles**  
-📄 [Matriz de Evaluación de Controles](Apendices/Apendice-E_Matrix-Evaluacion-de-Controles.pdf)
+📄 [Apéndice F — Lista de Verificación de Cumplimiento](Apendices/Apendice-F_Lista-Verificacion-de-Cumplimiento.pdf)
 
-### **Apéndice F — Lista de Verificación de Cumplimiento**  
-📄 [Lista de Verificación de Cumplimiento](Apendices/Apendice-F_Lista-Verificacion-de-Cumplimiento.pdf)
+📄 [Apéndice G — Memorándum para Partes Interesadas](Apendices/Apendice-G_Memorandum-partes-interesadas.pdf)
 
-### **Apéndice G — Memorándum para Partes Interesadas**  
-📄 [Memorándum para Partes Interesadas](Apendices/Apendice-G_Memorandum-partes-interesadas.pdf)
-
-Apéndices incluidos en el repositorio:  
-
-- [Apendice-A_Auditoria-Escenario-e-Instrucciones.pdf](../Apendices/Apendice-A_Auditoria-Escenario-e-Instrucciones.pdf)
-- [Apendice-B_Gerencia-Alcance-y-Objetivos.pdf](../Apendices/Apendice-B_Gerencia-Alcance-y-Objetivos.pdf)
-- [Apendice-C_Evaluacion-de-Riesgos.pdf](../Apendices/Apendice-C_Evaluacion-de-Riesgos.pdf)
-- [Apendice-D_Categorias-de-Control.pdf](../Apendices/Apendice-D_Categorias-de-Control.pdf)
-- [Apendice-E_Matrix-Evaluacion-de-Controles.pdf](../Apendices/Apendice-E_Matrix-Evaluacion-de-Controles.pdf)
-- [Apendice-F_Lista-Verificacion-de-Cumplimiento.pdf](../Apendices/Apendice-F_Lista-Verificacion-de-Cumplimiento.pdf)
-- [Apendice-G_Memorandum-partes-interesada.pdf](../Apendices/Apendice-G_Memorandum-partes-interesada.pdf)
-  
