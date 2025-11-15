@@ -153,14 +153,13 @@ Se analizaron los documentos proporcionados por el escenario:
 
 Basado en la evaluación de riesgos proporcionada en el curso:
 
-| Categoría                      | Descripción                                                       |
-|                                                                                                    |
-| Puntuación de Riesgo General   |  8/10 (Alto)                                                      |
-| Impacto                        |  Medio (debido al impacto desconocido en los activos)             |
-| Probabilidad                   |  Alta (falta de controles + riesgo de incumplimiento)             |
-| Factores Clave                 |  Falta de controles, inventario incompleto, ausencia de políticas |
-                                                                                                  
-
+| Categoría                        | Descripción                                                      |
+|---------------------|-------------------------------------------------------------------------------|
+| Puntuación de Riesgo General     | **8/10 (High)**                                                  |
+| Impacto                          | Medio (debido al impacto desconocido en los activos)             |
+| Probabilidad                     | Alta (falta de controles + riesgo de incumplimiento)             |
+| Factores Clave                   | Falta de controles, inventario incompleto, ausencia de políticas |
+                                                                                        
 El mayor riesgo se debe a:
 * Falta de visibilidad de los activos
 * Alta probabilidad de exposición de datos
