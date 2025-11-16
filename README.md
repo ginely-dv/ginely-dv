@@ -72,5 +72,22 @@ Estos son algunos de los proyectos que formaré como parte de mi portafolio dura
 - 🧩 Aplicación de **filtros a consultas SQL**
 - 🧱 **Identificación de vulnerabilidades** para una pequeña empresa
 - 🧾 **Documentación de incidentes** con el diario de un gestor de incidentes
-- 📊 **Importación y análisis de archivos de texto** en escenarios relacionados con la seguridad  
+- 📊 **Importación y análisis de archivos de texto** en escenarios relacionados con la seguridad
 
+  Estos son algunos de los proyectos que forman parte de mi portafolio:
+
+| Proyecto | Descripción | Enlace |
+|---------|-------------|--------|
+| 🔍 Auditoría de Seguridad | Ejecución completa de una auditoría interna simulada de Botium Toys aplicando el NIST CSF, evaluación de riesgos, matriz de controles y verificación de cumplimiento normativo (PCI DSS y GDPR). | [Ver Proyecto](./audit-project/Audit_report.md) |
+
+---
+
+## 🛠️ Habilidades y Tecnologías
+- Ciberseguridad: NIST CSF, Gestión de Riesgos, Control Interno, Evaluación de Controles  
+- Herramientas: SIEM, Firewalls, IDS/IPS, Excel, Markdown, Git/GitHub  
+- Documentación: Informes de auditoría interna, matrices de riesgos, memorandos de stakeholders  
+
+---
+
+## 📫 Contacto
+- Email: ginely.dv@gmail.com  
