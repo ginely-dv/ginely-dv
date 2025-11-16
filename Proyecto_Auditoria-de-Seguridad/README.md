@@ -82,30 +82,12 @@ Estas se clasifican por prioridad e impacto, siguiendo estándares profesionales
 
 Proyecto_Auditoria-de-Seguridad/  
 │  
-├── README.md                      # Descripción general del proyecto y tabla de contenidos  
-│  
-├── Reporte/                       # Entregables principales de la auditoría  
-│   ├── BotiumToys_Reporte-Auditoria-Interna.md  
-│   └── BotiumToys_Reporte-Auditoria-Interna.pdf  
-│  
-└── Apéndices/                     # Documentos de soporte utilizados durante la auditoría  
-    ├── Apendice-A_Auditoria-Escenario-e-Instrucciones.pdf  
-    ├── Apendice-B_Gerencia-Alcance-y-Objetivos.pdf  
-    ├── Apendice-C_Evaluacion-de-Riesgos.pdf  
-    ├── Apendice-D_Categorias-de-Control.pdf  
-    ├── Apendice-E_Matrix-Evaluacion-de-Controles.pdf  
-    ├── Apendice-F_Lista-Verificacion-de-Cumplimiento.pdf  
-    └── Apendice-G_Memorandum-partes-interesadas.pdf  
-
-
-Proyecto_Auditoria-de-Seguridad/
-│
 ├── [README.md](README.md)                       # Descripción general del proyecto y tabla de contenidos  
-│
+│  
 ├── Reporte/                                     # Entregables principales de la auditoría  
 │   ├── [BotiumToys_Reporte-Auditoria-Interna.md](Reporte/BotiumToys_Reporte-Auditoria-Interna.md)  
 │   └── [BotiumToys_Reporte-Auditoria-Interna.pdf](Reporte/BotiumToys_Reporte-Auditoria-Interna.pdf)  
-│
+│  
 └── Apéndices/                                   # Documentos de soporte utilizados durante la auditoría  
     ├── [Apendice-A_Auditoria-Escenario-e-Instrucciones.pdf](Apéndices/Apendice-A_Auditoria-Escenario-e-Instrucciones.pdf)  
     ├── [Apendice-B_Gerencia-Alcance-y-Objetivos.pdf](Apéndices/Apendice-B_Gerencia-Alcance-y-Objetivos.pdf)  
