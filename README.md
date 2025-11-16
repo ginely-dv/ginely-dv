@@ -10,11 +10,16 @@ A largo plazo, mi meta es crecer hacia un rol como **Analista SOC**, aplicando e
 
 ## 🧩 Habilidades
 
+### Transferibles
 - Pensamiento analítico y atención al detalle  
 - Resolución de problemas y toma de decisiones informadas  
 - Excelentes habilidades de comunicación  
 - Responsabilidad y ética profesional  
 - Capacidad para trabajar de forma remota y autónoma
+
+### Técnicas
+- Ciberseguridad: NIST CSF, Gestión de Riesgos, Control Interno, Evaluación de Controles  
+- Documentación: Informes de auditoría interna, matrices de riesgos, memorandos de stakeholders  
 
 ## 🛠️ Herramientas (en desarrollo)
 
@@ -78,14 +83,8 @@ Estos son algunos de los proyectos que formaré como parte de mi portafolio dura
 
 | Proyecto | Descripción | Enlace |
 |---------|-------------|--------|
-| 🔍 Auditoría de Seguridad | Ejecución completa de una auditoría interna simulada de Botium Toys aplicando el NIST CSF, evaluación de riesgos, matriz de controles y verificación de cumplimiento normativo (PCI DSS y GDPR). | [Ver Proyecto](./audit-project/Audit_report.md) |
+| 🔍 Auditoría de Seguridad | Ejecución completa de una auditoría interna simulada de Botium Toys aplicando el NIST CSF, evaluación de riesgos, matriz de controles y verificación de cumplimiento normativo (PCI DSS y GDPR). | [Ver Proyecto](./Proyecto_Auditoria-de-Seguridad/Reporte/BotiumToys_Reporte-Auditoria-Interna.md) |
 
----
-
-## 🛠️ Habilidades y Tecnologías
-- Ciberseguridad: NIST CSF, Gestión de Riesgos, Control Interno, Evaluación de Controles  
-- Herramientas: SIEM, Firewalls, IDS/IPS, Excel, Markdown, Git/GitHub  
-- Documentación: Informes de auditoría interna, matrices de riesgos, memorandos de stakeholders  
 
 ---
 
