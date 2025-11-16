@@ -7,7 +7,6 @@ Graduada en Administración de Negocios con experiencia en gestión y calidad de
 Desarrollarme en el área de **Vulnerability Management**, adquiriendo experiencia práctica que me permita comprender cómo identificar, evaluar y mitigar vulnerabilidades.  
 A largo plazo, mi meta es crecer hacia un rol como **Analista SOC**, aplicando esta base en la detección y respuesta a amenazas en tiempo real.
 
-
 ## 🧩 Habilidades
 
 ### Transferibles
@@ -19,7 +18,7 @@ A largo plazo, mi meta es crecer hacia un rol como **Analista SOC**, aplicando e
 
 ### Técnicas
 - Ciberseguridad: NIST CSF, Gestión de Riesgos, Control Interno, Evaluación de Controles  
-- Documentación: Informes de auditoría interna, matrices de riesgos, memorandos de stakeholders  
+- Documentación: Informes de auditoría interna, matrices de riesgos, memorandos de stakeholders
 
 ## 🛠️ Herramientas (en desarrollo)
 
@@ -82,8 +81,6 @@ Estos son algunos de los proyectos que formaré como parte de mi portafolio dura
 - 🧱 **Identificación de vulnerabilidades** para una pequeña empresa
 - 🧾 **Documentación de incidentes** con el diario de un gestor de incidentes
 - 📊 **Importación y análisis de archivos de texto** en escenarios relacionados con la seguridad
-
----
 
 ## 📫 Contacto
 - Email: ginely.dv@gmail.com  
