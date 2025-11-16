@@ -69,22 +69,19 @@ A medida que avance en mi formación, adquiriré práctica con herramientas y en
 
 ## 📚 Proyectos (en progreso)
 
-Estos son algunos de los proyectos que formaré como parte de mi portafolio durante el curso de Ciberseguridad de Google:
+### Estos son algunos de los proyectos que forman parte de mi portafolio:
+| Proyecto | Descripción | Enlace |
+|---------|-------------|--------|
+| Auditoría de Seguridad | Ejecución completa de una auditoría interna simulada de Botium Toys aplicando el NIST CSF, evaluación de riesgos, matriz de controles y verificación de cumplimiento normativo (PCI DSS y GDPR). | [Ver Proyecto](./Proyecto_Auditoria-de-Seguridad/Reporte/BotiumToys_Reporte-Auditoria-Interna.md) |  
 
-- 🔍 Realización de una **auditoría de seguridad**
+
+Estos son algunos de los proyectos que formaré como parte de mi portafolio durante el curso de Ciberseguridad de Google:
 - 🌐 Análisis de la **estructura y seguridad de red**
 - 🐧 Uso de **comandos de Linux** para administrar permisos de archivos
 - 🧩 Aplicación de **filtros a consultas SQL**
 - 🧱 **Identificación de vulnerabilidades** para una pequeña empresa
 - 🧾 **Documentación de incidentes** con el diario de un gestor de incidentes
 - 📊 **Importación y análisis de archivos de texto** en escenarios relacionados con la seguridad
-
-  Estos son algunos de los proyectos que forman parte de mi portafolio:
-
-| Proyecto | Descripción | Enlace |
-|---------|-------------|--------|
-| 🔍 Auditoría de Seguridad | Ejecución completa de una auditoría interna simulada de Botium Toys aplicando el NIST CSF, evaluación de riesgos, matriz de controles y verificación de cumplimiento normativo (PCI DSS y GDPR). | [Ver Proyecto](./Proyecto_Auditoria-de-Seguridad/Reporte/BotiumToys_Reporte-Auditoria-Interna.md) |
-
 
 ---
 
